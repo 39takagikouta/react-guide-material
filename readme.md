@@ -32,5 +32,3 @@
   `dsznajder.es7-react-js-snippets`
 
   React のスニペット(ショートカット)を使えるようにする
-
-a
