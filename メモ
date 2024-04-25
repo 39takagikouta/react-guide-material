@@ -34,8 +34,9 @@ const fnArrow = (number) => ({ result: number * 2 });
 
 12ESmoduleのexportとimportについて学ぼう
 jsファイルを一つのモジュールとして機能を管理
+デフォルトエクスポートは一つのファイルにつき一つ　読み込みの時{}はいらない　名前も変更できる
 
-
+13
 
 1-1
 babelがhtmlとかをjsオブジェクトに変更してくれる
