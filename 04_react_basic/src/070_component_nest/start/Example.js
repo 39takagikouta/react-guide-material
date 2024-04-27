@@ -4,6 +4,13 @@ const Example = () => {
   return (
     <div className="component">
       <h3>Hello Component</h3>
+      <ul>
+        <li>item-1</li>
+        <li>item-2</li>
+        <li>item-3</li>
+        <li>item-3</li>
+        <li>item-3</li>
+      </ul>
     </div>
   );
 };
